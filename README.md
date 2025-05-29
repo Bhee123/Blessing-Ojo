@@ -1,5 +1,4 @@
- [Image](https://github.com/user-attachments/assets/b9dbbf8b-f54c-4fc5-bdac-502ef9af615a)
-
+ ![Image](https://github.com/user-attachments/assets/8308319d-06b6-42fa-a28f-1f3b9d597a8a)
 <h1 align="center">Hi 👋 I'm <span style="color:#007ACC;">Blessing Ojo</span> </h1>
 
 <p align="center">
