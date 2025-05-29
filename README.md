@@ -1,5 +1,4 @@
-<!-- Banner Image -->
-<img src="https://github.com/yourusername/yourrepo/assets/banner-image.png" alt="Banner" style="width:100%; border-radius: 12px;"/>
+ [Image](https://github.com/user-attachments/assets/b9dbbf8b-f54c-4fc5-bdac-502ef9af615a)
 
 <h1 align="center">Hi 👋 I'm <span style="color:#007ACC;">Blessing Ojo</span> </h1>
 
